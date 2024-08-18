@@ -1,0 +1,533 @@
+{
+    "Dialogs": [
+        {
+            "name": "星之伊吕波",
+            "dialog": "不愧是你，如此坏心眼的选择。（佩服中带着一丝不满）",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_QUVVH8x9aS7jlMK0HNx7uobNutrJqI2qWMAPaCBvoRM"
+        },
+        {
+            "name": "",
+            "dialog": "我现在所在的地方，想象力之星首都：想象力之都的想象力行宫，神明大人：齐晗居住和办公的地方。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "由若干风格各异的设计师们殚精竭虑所提供各种各样方案所设计的各种各样的房间组成的辉煌宫殿。",
+            "characterAndEmotion": [],
+            "background": "想象力行宫践行厅（放大后从右往左缓缓移动镜头到顶后从左往右）",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "而我坐在沙发上的房间：践行厅名不副实，用了相当软绵绵的风格，一种以让人放松下来的主旨设计的房间。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "我现在却一点都放松不下来，因为即将推门而入的，可是这个星球，不这个宇宙上最难缠的乐子人啊！",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "开门声（环境音）",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_QVK9tFgkL_wfR1SJC-pizn8JhGwcSpp04cb9JVg2pzA"
+        },
+        {
+            "name": "？？？",
+            "dialog": "早哦，伊吕波同学。（夹杂着一丝的阴谋）",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_7Lpy3uPUao-dLFKfiilkIzviY1aeKeHeA4jGmm3WwXY"
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "早，神明大人（齐晗）。（平静）",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_lYCFwSnpjG60343w05C3SKEWq5p1nBmJGXHKAKX5UZ0"
+        },
+        {
+            "name": "",
+            "dialog": "她轻巧的一屁股坐在了我身旁紧贴着我。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "作为回应，我也什么都不说，默默喝着家政机器人端上来的红色茶水",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "馥郁的兰花香气，带着微苦的醇厚，没错是本地产的发酵岩茶，不得不承认在招待客人这一点，这个偌大宫殿的系统不失礼数。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "看我迟迟没有开口，她便率先发难。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "小可爱，外交游戏玩的开心吗？",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "常服（平静）",
+                "齐晗",
+                "微笑"
+            ],
+            "background": "想象力行宫践行厅全景",
+            "CGImage": "",
+            "audio": "1_O5mlDMBFFMP3N99du3ce0tQt7XDlbkXn-lwPYAQrrrw"
+        },
+        {
+            "name": "",
+            "dialog": "面对她这样在预期之中的发问，我轻描淡写的做出了回应。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "嘛，就那样吧，外交不过是将文明延续到下个世纪玩弄人心的游戏罢了。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_FlpnD8GQq2718sruAdEFxMjRY-zqN6EIqXYXFRW6PNU"
+        },
+        {
+            "name": "齐晗",
+            "dialog": "你还是这么无聊呢伊吕波同学。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_Z9IlHnR3MIZRYgY52BvwMr4J2Ajy2pL2-AWj9VDu8bg"
+        },
+        {
+            "name": "",
+            "dialog": "显然，我的回答过于范式，没能达到她想要的效果。不过对于她想要的效果，我明显不想要那么做。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "这样的你真的能写出我想要的happy end吗？",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_PWNLGiCVBMFI1Ofz6DHBu2wuS6EjqvFmVvI5prYL2yw"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "不能哦，因为我是创作悲剧的创作者。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_YFRSBgI_Yk5GV_QqMptt4Sig5n0FTmIu6FNUwP6-El8"
+        },
+        {
+            "name": "",
+            "dialog": "喜剧？人生以喜剧开始以悲剧结束，哪有什么让所有人都满意的happy end。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "我倒是希望你能有一段happy end哦，不过要是经历了bad end，我可是一点都不介意你在我怀里哭出来呢。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_nXq0-4Prf3e2hRd2KbIi4gmNFs5vAfUw0JfkWCQZDSc"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "在神明大人怀里哭出来这种事情怎么想都做不到吧！",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "常服（困惑）",
+                "齐晗",
+                "坏笑"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_pnL3ehpTLIQHnpvxyJdIsWdfTnFzAog1eQrXX9IYibI"
+        },
+        {
+            "name": "齐晗",
+            "dialog": "不好说呢。另外，下周三该去想象力大学任教了小可爱，我们想象力世界可不养懒人。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1__d28anJoWQP3uWlfu0ubVmYlsErVZ6Tt_b1yxkv7T3U"
+        },
+        {
+            "name": "",
+            "dialog": "出现了！这只会麻烦别人的指派！",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "好好好~",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "常服（平静）"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "口是心非是成年人的必修课",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "绝对，绝对不要忘了哦！",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "齐晗骑在伊吕波身上挑下巴",
+            "audio": "1_u_gBfA-ts3k-Er4_CkSAgycoG1P5RkLdKLiVhXQiEzo"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "……",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_Q2jvPwH-_0p0NH5hKuDj31iKS27Dlt0ccrp9mDHhQws"
+        },
+        {
+            "name": "",
+            "dialog": "趁着我将茶杯放下的间隙，她直接一个翻身骑在了我的身上，这个姿势对于男性来说可是相当的有杀伤力，可惜我是个女生这样的举动对我来说并没有什么效果。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "啊，脸红了。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_-uRJYgE10dXfjpz7B9tfXGLF7AmtzeAElEBtSoogrY0"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "我要是什么反应都没有岂不是显得你很没有魅力。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_EyeM_DtBWjO8Csiw5zkmJJEVKVgEIzsV5MnRhQTqlJM"
+        },
+        {
+            "name": "齐晗",
+            "dialog": "要做吗？",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_GA5M_d9LSj3PQGTBDWtXBkbHHbzqfGOdCP3kw4m7acc"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "我，不搞蕾丝边。（认真）",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_Ub7UPiCvdLpcFkkDE3jHM-JZDiYJph9aVimKC_W_-Dc"
+        },
+        {
+            "name": "齐晗",
+            "dialog": "小可爱你在想什么啊喂！（得逞）",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_tsnBAdNwEmq8mes2N6jU2098j4HWuI8C5B9JaGMeUYM"
+        },
+        {
+            "name": "",
+            "dialog": "不等我思考，她便一个头槌撞了过来，额头贴在了一起。",
+            "characterAndEmotion": [],
+            "background": "想象力行宫践行厅全景",
+            "CGImage": "out",
+            "audio": ""
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "好痛~",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "常服（X眼）",
+                "齐晗",
+                "自信"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_eTLaGXXaYWWk-nxAjy1ilJx8xRuOWFeZZFRT9l00LgM"
+        },
+        {
+            "name": "齐晗",
+            "dialog": "嗯嗯嗯，这样，干的不错。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_CZ1-iBr8YJMeKJD64TehHK6NLErBG-TNeEHeeQ3O1j8"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "啊……真是的！",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "常服（困惑）",
+                "齐晗",
+                "轻度惊讶"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_sJVZDNJrIUYy2nrvLxNEL2S70SPX3tbL2RgK9ypeX8w"
+        },
+        {
+            "name": "",
+            "dialog": "我将神明大人像小孩子一样抬着腋下丢回到沙发上",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "这是只有少数人才知道的秘密，对于我们想象力概念体齐晗只要这样额头对额头就能读取她想要的信息。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "还是那么温柔呢，伊吕波同学。",
+            "characterAndEmotion": [
+                "齐晗",
+                "坏笑"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_pbiYeqtSHkFV_0C_Q926yXtmVA5T4HCZeLrWXTUQOYU"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "那下次我就丢地上了。",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "常服（轻微生气）"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_zkfPoBu5CytZu2p71_AJbuLBk1RKkiljG6dJt--Yybk"
+        },
+        {
+            "name": "齐晗",
+            "dialog": "我认真的哦这次，做吗？",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_PbOrmQlOvnMlz0hnbxOkgxTVCi7XqXJbS6rwyoI2TXw"
+        },
+        {
+            "name": "",
+            "dialog": "看着她不知道是装出来还是真认真的眼神，我也只好摊牌了。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "诶，真是的，我直说了，我喜欢的是银发蓝瞳童颜贫乳美少女。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_yvScRdar7dZoW_2hpaj5cnu_qP30Ih_llhTP1jx6njA"
+        },
+        {
+            "name": "齐晗",
+            "dialog": "骗子，追寻星星的少女到底在哪里呢？",
+            "characterAndEmotion": [
+                "齐晗",
+                "平静"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_9Lm_mAfzVBwxnLiNTbiMfP5mEjR61TtJukm-T_xxJ1w"
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "无聊的问题。",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "常服（平静）"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_1p4tr5ZXrxhSxbKnyBwUYQn9zHy8ygAis3Mc67gPV6s"
+        },
+        {
+            "name": "",
+            "dialog": "我站了起来往房间里的书架走去，说实话我不想考虑这个问题。毕竟到现在为止，这个问题的答案依然是无解的。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "麻烦且无聊的女人。不和你玩了！",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_uC761yEAQDulMS-20MJYX7zgPLhNkuBi_doCp3Owt1w"
+        },
+        {
+            "name": "",
+            "dialog": "显然，神明大人玩够了在我起来的同时她也结束了这个话题走出了大门。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "齐晗",
+            "dialog": "哦，对了，报到的那天下午一点中，到军事学院的模拟战场一趟，这可是命令哦。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "1_pjBKyf7T3ux2_S23HucaOPaWU8dHv1bdQIlqu02mFtg"
+        },
+        {
+            "name": "",
+            "dialog": "最终她背对着我补上了一个不明所以的命令，从我的探查范围消失了。",
+            "characterAndEmotion": [
+                "齐晗",
+                "out"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "同样的我也静悄悄的走到了想象力行宫的门口。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "清晨的阳光洒在了中心城的大地上，也滤出了在空中的正六边形巨构。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "想象力之星的天空",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "我伸了伸懒腰。望着蔚蓝的天空。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "伊吕波",
+            "dialog": "早安，想象力之星。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "",
+            "characterAndEmotion": [
+                "星之伊吕波",
+                "out"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "平均半径6503千米，表面积531419360平方千米，质量6.02x10的24次方公斤，表面重力9.903，由巨构“大气层”所包裹着的人造盖亚星球：想象力之星",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "想象力之星",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "这便是我们：想象力概念体的首都，由16亿6532万8721名在这里或者其他外域生活着的科学家、艺术家、科学家、哲学家、作家等想象力概念体构成了我们的文明。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "没错，这就想象力异世界，一个科学家和艺术家以及一切以想象力为基础职业的人们的天堂。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "out",
+            "audio": ""
+        }
+    ]
+}

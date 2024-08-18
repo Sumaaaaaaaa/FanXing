@@ -1,0 +1,118 @@
+{
+    "Dialogs": [
+        {
+            "name": "星之伊吕波",
+            "dialog": "真是的，好不容易回来休息几天，还要我来当考官，神明大人也真是的，想象力世界已经无可用之兵了吗。",
+            "characterAndEmotion": ["星之伊吕波","无奈"],
+            "background": "舰船甲板"
+        },
+        {
+            "name": "观察员",
+            "dialog": "抱歉喽，伊吕波酱，俱乐部的其他人都有要事在身，剩下的成员也就你有时间了。",
+            "characterAndEmotion": ["观察员","普通"],
+            "background": ""
+        },
+        {
+            "name": "",
+            "dialog": "担任评委的同事拍了拍伊吕波的肩膀，两人一同来到了教练舰的出发甲板。甲板上，佐仓美野里等三十七人已经在那里等候许久，交头接耳的在讨论今年会遇到哪一位俱乐部成员。",
+            "characterAndEmotion": [],
+            "background": "画廊"
+        },
+        {
+            "name": "考生1",
+            "dialog": "诶，我和你说啊，上次考试我遇到了当代武圣，那个小姑娘考试还没结束就把我们全打退场了，后面复盘的时候也是一个也没过。",
+            "characterAndEmotion": ["考生1","普通","观察员","OUT"],
+            "background": ""
+        },
+        {
+            "name": "考生2",
+            "dialog": "那是肯定的了，那个小女孩已经85连胜，都不知道谁才能让她停一下。",
+            "characterAndEmotion": ["考生2","普通"],
+            "background": ""
+        },
+        {
+            "name": "",
+            "dialog": "伊吕波左手叉着腰，右手握紧放在嘴边哼唧了一声，略显严肃的开始了考试前的前情提要。",
+            "characterAndEmotion": ["星之伊吕波","轻松","考生1","OUT","考生2","OUT","观察员","OUT"],
+            "background": ""
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "嗯哼，各位先静一静。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "",
+            "dialog": "一秒后，考生们停止了讨论，并列队在甲板上站好。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "嗯哼，各位先静一静。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "各位，第十五系统时好，我是担任本次外出武官资质考试的考官：星之伊吕波。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "如各位知道的这样，本次考试考验的是各位的临场应变与策略设计的能力，在宇宙中我们想象力概念体总会遇到各种各样的麻烦，各位要做的便是在遇到这些麻烦的时候使用适当的方式进行处理。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "或许各位会觉得姐姐我很可爱而麻痹大意，不过即使各位真是这么觉得我也是不会放水的哦！",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "",
+            "dialog": "场上传来了短暂的笑声。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "老规矩，三个系统时内，不被我打出有效伤害，不离开规定区域，亦或者对我造成有效攻击，甚至联手击败我都算你们没被淘汰的人都算你们初步合格，不过录像会有对各位的复审罢了。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "星之伊吕波",
+            "dialog": "所以祝各位好运，我在对面等着你们的到来。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "佐仓美野里",
+            "dialog": "（——没想到今天的考官居然是伊吕波啊，wakuwaku，话说回来我还是第一次看伊吕波战斗呢。）",
+            "characterAndEmotion": ["佐仓美野里","兴奋"],
+            "background": ""
+        },
+        {
+            "name": "",
+            "dialog": "几分钟后，评委宣布了考试的开始。",
+            "characterAndEmotion": [],
+            "background": ""
+        },
+        {
+            "name": "观察员",
+            "dialog": "考试开始！",
+            "characterAndEmotion": ["佐仓美野里","OUT","星之伊吕波","OUT","观察员","普通"],
+            "background": ""
+        },
+        {
+            "name": "",
+            "dialog": "随着传遍每位考试与考官信标的开考信号，一场完全不对称的考试开始了。",
+            "characterAndEmotion": [],
+            "background": ""
+        }
+    ]
+}

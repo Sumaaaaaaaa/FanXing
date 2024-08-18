@@ -1,0 +1,297 @@
+{
+    "Dialogs": [
+        {
+            "name": "教授",
+            "dialog": "这次课题依然还是你一个人吗？",
+            "characterAndEmotion": [
+                "诸葛昕妍",
+                "平静",
+                "教授",
+                "正常"
+            ],
+            "background": "系主任办公室",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "微观工程学集成架构系的学科系主任办公室里，在所难免的一场师徒对话再次上演。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "不知不觉中，教授已经对此不再惊讶，从她进入微观工程学院第三个课题组后，便没有人愿意与她共同进行课题。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "即使她的才能是那么的耀眼，几乎保证了和她一组就不会有达不成的课题。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "诸葛昕妍",
+            "dialog": "嗯，不能理性的接受建议的人不适合进行研究",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "002_dlu1kg7lVvpUMUMZ07R790aNHWUJiuol667H9uuM_ew"
+        },
+        {
+            "name": "",
+            "dialog": "诸葛昕妍的回复中不带一丝的感情，这样的做法在科学研究中自然是更容易获得成功的。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "不过在人际关系中，这样的做法相较于她那可爱又漂亮的外表，让不少人产生心理预期的幻灭。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "教授",
+            "dialog": "我说你啊…",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "教授欲言又止，诸葛昕妍的设计研究水平无可挑剔也让他找不到可以插手的地方，在研究中她会将被指代者的虚荣心完全扒光以至于只能在角落偷偷抹眼泪的程度",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "也因为这样在连续在三个课题里弄哭同组的组员后，便再也没有人愿意和她组队了",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "教授",
+            "dialog": "不过这次，课题，我想你一个人接不了吧",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "教授指着设计需求里的“想象力构造模块”那一栏，朝诸葛昕妍发难道",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "课题开题报告书",
+            "audio": ""
+        },
+        {
+            "name": "诸葛昕妍",
+            "dialog": "不知原理的黑箱模块，还真是上古文明的产物呢。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "002_ShWEcjU4iPy3VBMMjhDktVBBVZrrZ7KbQywvQE1zlLo"
+        },
+        {
+            "name": "教授",
+            "dialog": "先不管什么上古文明的产物“将感情转化为想象力的模块”我记得我说过吧。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "诸葛昕妍",
+            "dialog": "这样我是没法判断这东西应该放在哪的。",
+            "characterAndEmotion": [
+                "诸葛昕妍",
+                "闭眼（表达无法理解）"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "002_Kf4ZxZRcKJ0nRs6bmKVkcIiM27ss9r18D-COt6NXKX8"
+        },
+        {
+            "name": "教授",
+            "dialog": "就是这样你才做不了呀诸葛昕妍同学。",
+            "characterAndEmotion": [
+                "教授",
+                "教授（上下浮动一下）"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "教授",
+            "dialog": "所以，你准备怎么办呢？",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "诸葛昕妍",
+            "dialog": "先把其他模块做了，想象力构造模块就交给你了教授。",
+            "characterAndEmotion": [
+                "诸葛昕妍",
+                "闭眼（上下浮动一下）"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "002_Li15cShTL03VmMjUcZ3VjxSS2gna_TV3Kxve1qswIvc"
+        },
+        {
+            "name": "教授",
+            "dialog": "不是，你做的构架谁能在里面加东西啊。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "诸葛昕妍，货真价实的天才",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "她所设计的芯片结构不仅不会出现任何基本设计规则上的bug完成度更是达到了极致，所需面积最小更是做到就是该芯片的完美方案，当然这也导致了这个芯片除她以外没有人能做进一步的升级",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "诸葛昕妍",
+            "dialog": "确实也是这样",
+            "characterAndEmotion": [
+                "诸葛昕妍",
+                "平静"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": "002_7f2lOn9VZz3-PzFXoPReYIPiHSaSAgc1UPveMTQRjKI"
+        },
+        {
+            "name": "教授",
+            "dialog": "要不，这次你就别参加了，就当放个假啊，放个假。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "教授给出了解决方案，察觉到自己确实无能为力后，诸葛昕妍理性的选择了退让。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "诸葛昕妍",
+            "dialog": "好吧，那我先走了，失礼。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": "002_G-MRwtaJflBizyQMr5YYxyGs1cF8ZeM5zNGI-vyvCvg"
+        },
+        {
+            "name": "教授",
+            "dialog": "别急着跑，军事学院有事委派过来找你。",
+            "characterAndEmotion": [
+                "教授",
+                "教授（上下浮动一下"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "教授递给了诸葛昕妍一个信息盘。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "信息盘",
+            "audio": ""
+        },
+        {
+            "name": "教授",
+            "dialog": "通知函是发过来了，你自己看吧，保密等级还挺高的。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "诸葛昕妍不仅仅是微观工程学院的研究员，其手腕上的手环也象征了她的另一重身份：",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "想象力世界的战骑，在想象力大学从事工作的战士们关于这项职务的命令大多由军事学院进行发布。",
+            "characterAndEmotion": [],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "诸葛昕妍",
+            "dialog": "这里确认收到了，我先走了。",
+            "characterAndEmotion": [
+                "诸葛昕妍",
+                "闭眼"
+            ],
+            "background": "",
+            "CGImage": "out",
+            "audio": ""
+        },
+        {
+            "name": "",
+            "dialog": "教授点了点头目送她出了房间",
+            "characterAndEmotion": [
+                "诸葛昕妍",
+                "out"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        },
+        {
+            "name": "教授",
+            "dialog": "年轻人也有年轻人的烦恼啊。",
+            "characterAndEmotion": [
+                "教授",
+                "out"
+            ],
+            "background": "",
+            "CGImage": "",
+            "audio": ""
+        }
+    ]
+}
